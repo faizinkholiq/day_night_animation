@@ -3,7 +3,7 @@ import 'package:day_night_animate/size_config.dart';
 
 class Land extends StatelessWidget {
   const Land({
-    required Key key,
+    key,
   }) : super(key: key);
 
   @override

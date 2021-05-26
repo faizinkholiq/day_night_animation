@@ -5,7 +5,7 @@ import 'package:day_night_animate/size_config.dart';
 
 class Sun extends StatelessWidget {
   const Sun({
-    required Key key,
+    key,
     required Duration duration,
     required this.isFullSun,
   }) : _duration = duration,
